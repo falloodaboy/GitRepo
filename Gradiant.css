@@ -1,0 +1,17 @@
+
+		body{
+			background: linear-gradient(to right, blue, yellow);
+			text-align: center;
+		}
+		h1{
+			font-family: fantasy;
+			color: pink;
+		}
+		h2{
+			font-family: fantasy;
+			color: lightgreen;
+		}
+		h3{
+			font-family: sans-serif;
+			color: cyan;
+		}
